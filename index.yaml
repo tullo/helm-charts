@@ -2,6 +2,17 @@ apiVersion: v1
 entries:
   cloud-application:
   - apiVersion: v2
+    appVersion: 1.0.5
+    created: "2022-01-11T21:43:17.715771671Z"
+    description: cloud-applicationh helm chart for Kubernetes
+    digest: a0cb984535dce89a7bbae0e70d8b9e2381c421a7e7e915f5f1af9a54a8bc5a99
+    icon: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
+    name: cloud-application
+    type: application
+    urls:
+    - https://tullo.github.io/helm-charts/cloud-application-1.0.5.tgz
+    version: 1.0.5
+  - apiVersion: v2
     appVersion: 1.0.4
     created: "2022-01-11T20:52:00.829528976Z"
     description: cloud-applicationh helm chart for Kubernetes
@@ -23,4 +34,4 @@ entries:
     urls:
     - https://tullo.github.io/helm-charts/cloud-application-1.0.3.tgz
     version: 1.0.3
-generated: "2022-01-11T20:52:00.828798066Z"
+generated: "2022-01-11T21:43:17.715130162Z"
