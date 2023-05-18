@@ -47,6 +47,17 @@ entries:
     version: 1.0.3
   cloud-application-java:
   - apiVersion: v2
+    appVersion: 1.0.53
+    created: "2023-05-18T14:58:54.134415018Z"
+    description: cloud-applicationh helm chart for Kubernetes
+    digest: a541e1ad2dfc41e4fb39196e3229e994937351c3f6d15da56ef82bcd244116f5
+    icon: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
+    name: cloud-application-java
+    type: application
+    urls:
+    - https://tullo.github.io/helm-charts/cloud-application-java-1.0.53.tgz
+    version: 1.0.53
+  - apiVersion: v2
     appVersion: 1.0.52
     created: "2023-05-14T12:43:43.613622578Z"
     description: cloud-applicationh helm chart for Kubernetes
@@ -475,4 +486,4 @@ entries:
     urls:
     - https://tullo.github.io/helm-charts/cloud-application-java-1.0.7.tgz
     version: 1.0.7
-generated: "2023-05-14T12:43:43.61258077Z"
+generated: "2023-05-18T14:58:54.133100231Z"
